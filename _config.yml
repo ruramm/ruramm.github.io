@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "noob code"
+title                    : "novice code"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ruram"
-description              : "noob website."
+description              : "novice website."
 url                      : "https://ruramm.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "ruram"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a **noob**"
+  bio              : "I am a **novice**"
   location         : "Korea"
   email            :rururamm@gmail.com
   links:
